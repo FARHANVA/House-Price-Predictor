@@ -6,7 +6,7 @@ This project uses the **Boston Housing Dataset** to predict median house prices 
 
 ## 📊 Dataset Overview
 
-The dataset contains information about housing in Boston suburbs, with 13 input features such as:
+The dataset contains information about the housing in Boston suburbs, with 13 input features such as:
 - 🏙️ CRIM: Crime rate
 - 🏠 RM: Average number of rooms
 - 🌊 CHAS: Proximity to Charles River

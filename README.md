@@ -1,6 +1,6 @@
 # 🏡 House Price Predictor
 
-This project uses **Boston Housing Dataset** to predict median house prices using  **Linear Regression**. It demonstrates the complete machine learning workflow — from data exploration to model training, evaluation, and saving for future use.
+This project uses **Boston Housing Dataset** to predict median house prices using the  **Linear Regression**. It demonstrates the complete machine learning workflow — from data exploration to model training, evaluation, and saving for future use.
 
 ---
 
